@@ -13,6 +13,27 @@
         android:theme="@style/Theme.Android_networking"
         tools:targetApi="31">
         <activity
+            android:name=".Bai6"
+            android:exported="false" />
+        <activity
+            android:name=".LoadImgActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Bai1"
+            android:exported="false" />
+        <activity
+            android:name=".Bai2"
+            android:exported="false" />
+        <activity
+            android:name=".Bai3"
+            android:exported="false" />
+        <activity
+            android:name=".Bai4"
+            android:exported="false" />
+        <activity
+            android:name=".Bai5"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
